@@ -1,6 +1,7 @@
 # code run only upon loading the application
 
 require(rCharts)
+require(rMaps)
 require(shiny)
 require(dplyr)
 

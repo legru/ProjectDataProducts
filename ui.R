@@ -1,3 +1,7 @@
+require(rCharts)
+require(rMaps)
+require(shiny)
+
 shinyUI(fluidPage(
   titlePanel("Where are the Syrian refugees?"),
   
